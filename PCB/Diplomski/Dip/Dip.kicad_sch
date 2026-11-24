@@ -1,0 +1,409 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f721a5fb-83b6-49b4-a1a2-8b7da44fd9fd")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 165.1 87.63) (xy 168.91 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c12a78d-625d-4d73-b9ee-7593d53fd6f3")
+	)
+	(wire
+		(pts
+			(xy 165.1 93.98) (xy 165.1 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fc264f8-77bf-451f-a1ba-0f3fc7fa92fe")
+	)
+	(wire
+		(pts
+			(xy 144.78 58.42) (xy 144.78 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29fe34fa-0af3-4365-a0a8-1225e94cb000")
+	)
+	(wire
+		(pts
+			(xy 140.97 88.9) (xy 144.78 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3af084d5-030a-4d71-866b-f660ab4392a8")
+	)
+	(wire
+		(pts
+			(xy 153.67 91.44) (xy 153.67 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5be445a2-2aa0-48ce-a4c7-401b97a1df2d")
+	)
+	(wire
+		(pts
+			(xy 140.97 60.96) (xy 143.51 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cf81a5a-d5de-4c74-bcb0-0ec2f328ca9b")
+	)
+	(wire
+		(pts
+			(xy 140.97 91.44) (xy 153.67 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8229c870-5685-40c9-8292-80d5ca558ce4")
+	)
+	(wire
+		(pts
+			(xy 153.67 59.69) (xy 168.91 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c31241c-a60c-45bc-9045-be9b7baad9b8")
+	)
+	(wire
+		(pts
+			(xy 143.51 86.36) (xy 143.51 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "997b0a2f-46fd-450f-b3b5-a9cb9346c903")
+	)
+	(wire
+		(pts
+			(xy 140.97 58.42) (xy 144.78 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a2c15ea-b7cc-4aab-a6aa-24b3d7c7d9ef")
+	)
+	(wire
+		(pts
+			(xy 140.97 86.36) (xy 143.51 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b532c4e4-99db-472f-9d92-101f0212e052")
+	)
+	(wire
+		(pts
+			(xy 140.97 93.98) (xy 165.1 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8761627-f119-4a4b-bd57-ab5e884c1766")
+	)
+	(sheet
+		(at 105.41 55.88)
+		(size 35.56 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4814a597-d7f8-4e63-91a5-8242a19220fa")
+		(property "Sheetname" "LED_DRIVER"
+			(at 105.41 55.1684 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_DRIVER.kicad_sch"
+			(at 105.41 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "IR_GPIO" input
+			(at 140.97 60.96 0)
+			(uuid "c2fcea0c-e45a-4988-9fc4-391cf32168ca")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED_GPIO" input
+			(at 140.97 58.42 0)
+			(uuid "20036485-72b1-4547-b890-f5475fd13543")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dip"
+				(path "/f721a5fb-83b6-49b4-a1a2-8b7da44fd9fd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 83.82)
+		(size 35.56 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5c024c82-2f94-434c-b2dd-2bede0959430")
+		(property "Sheetname" "uSTM"
+			(at 105.41 83.1084 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "uSTM.kicad_sch"
+			(at 105.41 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "IR_GPIO" output
+			(at 140.97 86.36 0)
+			(uuid "18694b6c-bbd2-4400-a950-44020ff272fe")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED_GPIO" output
+			(at 140.97 88.9 0)
+			(uuid "1f26e559-4108-4c53-95eb-0105a8379a73")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(pin "Stanje_Baterije" input
+			(at 140.97 93.98 0)
+			(uuid "53817184-866d-4195-8bb9-8d1a17e585af")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(pin "TIA_OUT" input
+			(at 140.97 91.44 0)
+			(uuid "b6bc20bc-c0db-462a-b880-2a4875ae7164")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Dip"
+				(path "/f721a5fb-83b6-49b4-a1a2-8b7da44fd9fd"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 55.88)
+		(size 35.56 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8a6fd3e3-5f4c-4e6d-a9e6-10ae8bdf9917")
+		(property "Sheetname" "TIA_PF"
+			(at 168.91 55.1684 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TIA_PF.kicad_sch"
+			(at 168.91 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "TIA_OUT" output
+			(at 168.91 59.69 180)
+			(uuid "d3ea7384-03fb-41a1-a78b-dacdd617e217")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dip"
+				(path "/f721a5fb-83b6-49b4-a1a2-8b7da44fd9fd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 83.82)
+		(size 35.56 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9469034b-d8a3-4598-950d-afe8b55e6da3")
+		(property "Sheetname" "Power Supply"
+			(at 168.91 83.1084 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 170.18 166.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Stanje_Baterije" output
+			(at 168.91 87.63 180)
+			(uuid "d22f22a3-3a97-47be-be94-e90699b35d41")
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Dip"
+				(path "/f721a5fb-83b6-49b4-a1a2-8b7da44fd9fd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS621361RGXR")(type "KiCad")(uri "C:/Program Files/KiCad/9.0/bin/Lib/Moje/TPS621361RGXR.pretty")(options "")(descr ""))
+)

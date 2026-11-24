@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Diplomski.Server\\Diplomski.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Diplomski\\Diplomski.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

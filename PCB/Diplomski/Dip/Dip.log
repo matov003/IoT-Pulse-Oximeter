@@ -1,0 +1,125 @@
+STEP translation to Solid Edge
+Date: Thursday,October 08,2026 09:56PM
+Source File: C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\Dip.step
+Author: Pcbnew
+Organization: Kicad
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: AMD Ryzen 7 5700U with Radeon Graphics         
+Operating System: Windows 11 Professional Version:25H2 Build:26200 System Type:64-bit
+Installed Memory: 7.35 GB
+
+Software Information
+Parasolid Version: 38.0.150
+PSBodyShop Version: 38.0.111
+Step Adapter Version: 1700.0.0
+Solid Edge Version: 226.00.01.004 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Optimize:Off
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\Dip.asm
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SW_SPST_B3U-1000P_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SOT-23_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SOIC-8_3.9x4.9mm_P1.27mm_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\L_1210_3225Metric_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\TPS621361RGXR_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\LED_0805_2012Metric_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_1210_3225Metric_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\D_SOD-523_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\PinHeader_1x05_P2.54mm_Vertical_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SM02B-SRSS-TB-LF--SN---3DModel-STEP-56544_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\LED_D3.0mm_IRBlack_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\USB_C_Receptacle_GCT_USB4085_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SOT-23.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\PinHeader_1x04_P2.54mm_Vertical_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SOT-23.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\LQFP-64_10x10mm_P0.5mm_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\PinSocket_2x04_P2.54mm_Vertical_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_1210_3225Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\D_SOD-523.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SW_SPST_B3U-1000P.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\BPW34--3DModel-STEP-56544_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\LED_D3.0mm_IRBlack.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\D_SOD-523.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\D_SOD-523.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\SOT-23.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\C_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\ABM3-8.000MHZ-12-E4U-T_0.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\PinHeader_1x02_P2.54mm_Vertical_0.par
+|--+Reusing File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\atovm\OneDrive\Dokumenti\PCB\Diplomski\Dip\Dip_PCB_0.par
++Total Parts: 200
++Assemblies: 0
++Solid Bodies: 197
++Sheet Bodies: 3
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 18
